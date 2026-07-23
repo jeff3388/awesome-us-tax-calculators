@@ -267,6 +267,14 @@ Pay the lesser of:
 
 ---
 
+
+### Online Calculators for Self-Employed
+
+- [SmartBizCalc Self-Employment Tax Calculator](https://smartbizcalc.com/self-employment-tax-calculator.html) — Compute your SE tax liability (15.3% / 2.9%) and the deductible half, with 2025–2026 SS wage base applied.
+- [SmartBizCalc Quarterly Tax Calculator](https://smartbizcalc.com/quarterly-tax-calculator.html) — Estimate Q1–Q4 estimated tax payments; handles self-employment income, W-2 wages, and safe harbor rules.
+- [SmartBizCalc 1099 vs W-2 Calculator](https://smartbizcalc.com/1099-vs-w2-calculator.html) — Side-by-side net take-home comparison accounting for SE tax, employer FICA, and benefits differential.
+- [SmartBizCalc Payroll Tax Calculator](https://smartbizcalc.com/payroll-tax-calculator.html) — Employer-side payroll tax breakdown (FICA, FUTA, SUTA) for small business owners and their employees.
+
 ## Payroll & Salary Calculators
 
 ### After-Tax Pay Formula
