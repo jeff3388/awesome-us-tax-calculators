@@ -97,6 +97,7 @@ After-Tax Income = Gross Income - Federal Tax - State Tax - FICA
 - [usdigitalresponse/covid-fund-taxes](https://github.com/usdigitalresponse/covid-fund-taxes) — Example open government tax calculation logic.
 - [obernardoff/tax-calculator](https://github.com/obernardoff/tax-calculator) — Simple US federal + state income tax estimator in Python.
 - [tmaher/bracket_calculator](https://github.com/tmaher/bracket_calculator) — Marginal vs effective federal tax rate calculator.
+- [kleogeos/freelance-tax-cli](https://github.com/kleogeos/freelance-tax-cli) — Zero-dependency CLI for the self-employment (SE) tax calculation below (Social Security + Medicare, deductible half, quarterly split, optional Additional Medicare Tax). JSON output for scripting.
 
 ### Python: Federal Tax Calculation Snippet
 
